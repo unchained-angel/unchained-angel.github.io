@@ -1,12 +1,11 @@
 <img src="assets/images/Profile.jpg" width="220" style="border-radius: 50%;">
 
-# Thulaganyo Phala
+Hi! I'm Thulaganyo Phala, TS for short. I'm a technologist based in the rolling hills of Serowe, Botswana. Below you will find my work that tackles, infrastructure and engineering solutions to tackle digital inclusion in my home.
 
-Botswana-based Managing Director and Principal Consultant at Unity Harvest Alliance (Pty Ltd), working at the intersection of data engineering, education, and institutional digital transformation.
-
-📧 Email: [phalathulaganyo@gmail.com](mailto:phalathulaganyo@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/thulaganyo-phala-sehuhula](https://www.linkedin.com/in/thulaganyo-phala-sehuhula)  
-💻 GitHub: [github.com/unchained-angel](https://github.com/unchained-angel)
+📧 Email: [phalathulaganyo@gmail.com](mailto:phalathulaganyo@gmail.com)  \
+🔗 LinkedIn: [linkedin.com/in/thulaganyo-phala-sehuhula](https://www.linkedin.com/in/thulaganyo-phala-sehuhula)  \
+💻 GitHub: [github.com/unchained-angel](https://github.com/unchained-angel)  \
+<!-- 📄 CV: [View my CV](./assets/Thulaganyo-Phala-CV.pdf) -->
 
 ---
 
