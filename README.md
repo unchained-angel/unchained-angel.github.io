@@ -1,4 +1,4 @@
-<img src="assets/images/Profile.png" alt="Thulaganyo Phala" width="165" align="left" />
+<img src="assets/images/Profile.jpg" width="220" style="border-radius: 50%;">
 
 # Thulaganyo Phala
 
