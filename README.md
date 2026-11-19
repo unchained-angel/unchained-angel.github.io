@@ -1,6 +1,6 @@
-<img src="assets/images/Profile.png" alt="Thulaganyo Phala Sehuhula" width="165" align="left" />
+<img src="assets/images/Profile.png" alt="Thulaganyo Phala" width="165" align="left" />
 
-# Thulaganyo Phala Sehuhula
+# Thulaganyo Phala
 
 Botswana-based Managing Director and Principal Consultant at Unity Harvest Alliance (Pty Ltd), working at the intersection of data engineering, education, and institutional digital transformation.
 
